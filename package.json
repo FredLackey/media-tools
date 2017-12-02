@@ -1,0 +1,31 @@
+{
+  "name": "media-tools",
+  "version": "0.0.0",
+  "description": "Tools for working with multimedia files (mp3, mp4, m4a, editing tags, etc.).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredLackey/media-tools.git"
+  },
+  "keywords": [
+    "multimedia",
+    "tools",
+    "mp3",
+    "mp4",
+    "m4a",
+    "tags",
+    "id3"
+  ],
+  "author": "Fred Lackey <fred.lackey@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FredLackey/media-tools/issues"
+  },
+  "homepage": "https://github.com/FredLackey/media-tools#readme",
+  "dependencies": {
+    "media-tools-cli": "0.0.1"
+  }
+}
