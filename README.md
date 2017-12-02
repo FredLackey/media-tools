@@ -7,8 +7,8 @@ Currently under development.  Helps provide mass-updating and housekeeping tasks
 ## Assumptions  
 At the moment, the utility requires files to be named in a specific format:
 
-    <title> - <artist>.<extention>
-    <title> - <edition> - <artist>.<extention>
+    <title> - <artist>.<extension>
+    <title> - <edition> - <artist>.<extension>
 
 For example, one of these will work:  
 
@@ -34,11 +34,10 @@ Install the utility, and the above commands, as follows:
 
     npm install media-tools
 
------
-
+## Contact Information  
 Please feel free to contact me directly with any questions or suggestions:  
 
-Fred Lackey
+Fred Lackey  
 [www.fredlackey.com](http://www.fredlackey.com)  
 [fred.lackey@gmail.com](mailto:fred.lackey@gmail.com)  
 
