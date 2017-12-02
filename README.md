@@ -5,7 +5,7 @@ Tools for working with multimedia files (mp3, mp4, m4a, editing tags, etc.).
 Currently under development.  Helps provide mass-updating and housekeeping tasks while downloading music from services like Spotify and YouTube.
 
 ## Formats Supported  
-Theoretically, the utility can support any format supported by FFMpeg.  However, during the initial development, support is limited to the following formats:
+Theoretically, the utility can support any format supported by FFMpeg.  However, during this initial development phase, support is limited to the following formats:
 
 * ASF  
 * AVI  
