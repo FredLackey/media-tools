@@ -16,8 +16,6 @@ Theoretically, the utility can support any format supported by FFMpeg.  However,
 * WMA  
 * WMV  
 
-Currently under development.  Helps provide mass-updating and housekeeping tasks while downloading music from services like Spotify and YouTube.
-
 ## Assumptions  
 At the moment, the utility requires files to be named in a specific format:
 
