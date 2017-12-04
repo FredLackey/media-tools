@@ -1,10 +1,10 @@
 {
   "name": "media-tools",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tools for working with multimedia files (mp3, mp4, m4a, editing tags, etc.).",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "tags-clear": "./cli/tags-clear.js",
+    "tags-set-from-file": "./cli/tags-set-from-file.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,11 @@
   },
   "homepage": "https://github.com/FredLackey/media-tools#readme",
   "dependencies": {
-    "media-tools-cli": "0.0.1"
+    "async": "^2.6.0",
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2",
+    "ffmetadata": "^1.4.0",
+    "media-tools-cli": "0.0.1",
+    "readdirp": "^2.1.0"
   }
 }
